@@ -1,5 +1,5 @@
 <?php
 
-	echo "I´m the master!";
+	echo "Hello World";
 
 ?>
